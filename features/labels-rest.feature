@@ -4,13 +4,14 @@
 #@allure.label.url:/repos/{owner}/{repo}/labels
 Feature: Labels
 
-  @smoke
+
   Scenario: Create new label via api
     When I create label with title "hello" via api
     Then I should see label with title "hello" via api
 
   @regress
   #@allure.label.jira:AE-1
+    @skip
   Scenario: Delete existing label via api
     When I create label with title "hello" via api
     And I delete label with title "hello" via api
