@@ -11,7 +11,3 @@ function Reporter(options) {
 Reporter.prototype = Object.create(CucumberJSAllureFormatter.prototype);
 Reporter.prototype.constructor = Reporter;
 exports.default = Reporter;
-
-
-// allure generate allure-results --clean -o allure-report
-// allure open
