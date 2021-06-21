@@ -1,0 +1,142 @@
+{
+  "7f9201a35ba112cb1630f370994d67b1" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "878c1ed1d7b15fd8",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/878c1ed1d7b15fd8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345494,
+        "stop" : 1624278345496,
+        "duration" : 2
+      }
+    } ]
+  },
+  "751b37167ec666d1e9565df431dfbb23" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b8c2185262063e34",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/b8c2185262063e34",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345473,
+        "stop" : 1624278345480,
+        "duration" : 7
+      }
+    } ]
+  },
+  "7fcf6dea6661edeaa0b4d197b46633e8" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "153a9b7b0a31135c",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/153a9b7b0a31135c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345492,
+        "stop" : 1624278345493,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e4e4ad671e2b07881119e6b8ebce223e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "711309984993ac74",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/711309984993ac74",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345485,
+        "stop" : 1624278345487,
+        "duration" : 2
+      }
+    } ]
+  },
+  "4d80c81ce3538528f504c6d449549a0b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3fa823dc18d35600",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/3fa823dc18d35600",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345497,
+        "stop" : 1624278345498,
+        "duration" : 1
+      }
+    } ]
+  },
+  "04d16cd3c5413c3f3c298151214eb85b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "5b70db1dca592300",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/5b70db1dca592300",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345488,
+        "stop" : 1624278345491,
+        "duration" : 3
+      }
+    } ]
+  },
+  "5eeff412db0aa82a2660f871553b2214" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "db6db90b224a4560",
+      "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1//#testresult/db6db90b224a4560",
+      "status" : "passed",
+      "time" : {
+        "start" : 1624278345482,
+        "stop" : 1624278345484,
+        "duration" : 2
+      }
+    } ]
+  }
+}

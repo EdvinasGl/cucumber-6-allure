@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://EdvinasGl.github.io/cucumber-6-allure",
+  "buildOrder" : 1,
+  "buildName" : "GitHub Actions Run #957037668",
+  "buildUrl" : "https://github.com/EdvinasGl/cucumber-6-allure/actions/runs/957037668",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1/"
+} ]

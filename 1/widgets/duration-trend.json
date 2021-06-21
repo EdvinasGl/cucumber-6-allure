@@ -1,0 +1,8 @@
+[ {
+  "buildOrder" : 1,
+  "reportUrl" : "https://EdvinasGl.github.io/cucumber-6-allure/1/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 25
+  }
+} ]

@@ -1,0 +1,101 @@
+{
+  "uid" : "db6db90b224a4560",
+  "name" : "Delete existing label via api",
+  "fullName" : "features/labels-rest.feature:Labels:Delete existing label via api",
+  "historyId" : "5eeff412db0aa82a2660f871553b2214",
+  "time" : {
+    "start" : 1624278345482,
+    "stop" : 1624278345484,
+    "duration" : 2
+  },
+  "description" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When I create label with title \"hello\" via api",
+      "time" : {
+        "start" : 1624278345483,
+        "stop" : 1624278345483,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And I delete label with title \"hello\" via api",
+      "time" : {
+        "start" : 1624278345483,
+        "stop" : 1624278345484,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then I should not see label with content \"hello\" via api",
+      "time" : {
+        "start" : 1624278345484,
+        "stop" : 1624278345484,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "thread",
+    "value" : "2862"
+  }, {
+    "name" : "feature",
+    "value" : "Labels"
+  }, {
+    "name" : "tag",
+    "value" : "@regress"
+  }, {
+    "name" : "tag",
+    "value" : "@skip"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "@skip", "@regress" ]
+  },
+  "source" : "db6db90b224a4560.json",
+  "parameterValues" : [ ]
+}
